@@ -1,0 +1,17 @@
+###
+GET http://localhost:14000/setup
+
+###
+GET http://localhost:14000
+
+###
+POST http://localhost:14000
+Content-Type: application/json
+
+{
+    "name": "Tete",
+    "location": "25 Ongatajumica street"
+}
+
+# Dockerized a backend app with a database and a server
+# Map ports from within and outside the container
