@@ -15,9 +15,9 @@ Key Features:
 ## Technologies Used
 - Docker: For containerizing the backend server and database.
 
-- Backend Framework: [e.g., Express, Flask, Django] (Replace with your actual stack).
+- Backend Framework: [Express].
 
-- Database: [e.g., MySQL, PostgreSQL, MongoDB] (Replace with your chosen DB).
+- Database: [PostgreSQL].
 
 - Docker Compose: To orchestrate multi-container applications.
 
